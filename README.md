@@ -1,6 +1,6 @@
 # House Prices Prediction
 
-A dataset from Kaggle competition. I used this dataset to learn fundamental data cleaning and feature engineering techniques. Training set with size (1460, 80) which contains a target variable *SalePrice*. Testing set size: (1459, 79).
+A dataset from Kaggle competition. I used this dataset to learn fundamental data cleaning and feature engineering techniques in Python. Training set with size (1460, 80) which contains a target variable *SalePrice*. Testing set size: (1459, 79).
 
 Credit:  
 https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python  
