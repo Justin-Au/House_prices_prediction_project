@@ -2,7 +2,9 @@
 
 A dataset from Kaggle competition. I used this dataset to learn fundamental data cleaning and feature engineering techniques in Python. Training set with size (1460, 80) which contains a target variable *SalePrice*. Testing set size: (1459, 79).
 
-Credit:  
+*Dataset:*  
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+*Credit:*  
 https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python  
 https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard#Data-Processing  
 https://www.kaggle.com/prestonfan/stacked-analysis-predicting-prices
